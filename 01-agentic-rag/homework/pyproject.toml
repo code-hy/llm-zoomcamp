@@ -1,0 +1,15 @@
+[project]
+name = "homework"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gitsource>=0.0.5",
+    "minsearch>=0.1.0",
+    "openai>=2.43.0",
+    "pandas>=3.0.3",
+    "python-dotenv>=1.2.2",
+    "scikit-learn>=1.9.0",
+    "toyaikit>=0.0.11",
+]
